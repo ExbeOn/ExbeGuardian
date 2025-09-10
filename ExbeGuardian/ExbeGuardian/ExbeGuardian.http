@@ -1,0 +1,6 @@
+@ExbeGuardian_HostAddress = http://localhost:5094
+
+GET {{ExbeGuardian_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
